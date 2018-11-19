@@ -1,0 +1,2 @@
+ncat -l 2000 >plik1
+ncat 10.10.48.15 2000 <plik2
